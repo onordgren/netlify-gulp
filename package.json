@@ -1,7 +1,7 @@
 {
   "name": "netlify-gulp",
   "version": "1.0.0",
-  "description": "netlify with gulp",
+  "description": "netlify sample with gulp",
   "scripts": {
     "start": "gulp build"
   },
